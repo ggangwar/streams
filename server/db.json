@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "hello",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me",
+      "userId": "104898499501717454872",
+      "id": 3
+    },
+    {
+      "title": "create stream button",
+      "description": "crating from create stream button using patch second",
+      "userId": "104898499501717454872",
+      "id": 4
+    },
+    {
+      "title": "streaming component reuse",
+      "description": "reusing stream form across new",
+      "id": 7
+    }
+  ]
+}
